@@ -2,7 +2,7 @@
 A comprehensive biography and operational case study of Elon Musk. Explores his early struggles in South Africa, the existential 2008 financial crisis of Tesla and SpaceX, and a first-principles breakdown of "The Production Algorithm" framework.
 
 First Principles: Elon Musk and the Gamble for Humanity’s Future
-                                                -	Lokesh Chaudhari
+                              -	Lokesh Chaudhari
 
 The story of Elon Musk is not a conventional narrative of corporate success; it is a modern epic of high-stakes gambling, existential risk, and an unyielding, almost manic drive to force science fiction into reality. From a lonely childhood in Pretoria, South Africa, to the frozen launchpads of Boca Chica, Texas, his life has been defined by a willingness to push himself, his companies, and his engineers to the absolute brink of psychological and financial collapse.
 Part I: The Crucible of Pretoria
